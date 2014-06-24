@@ -1,4 +1,3 @@
-jkoehlerrfid.github.io
-======================
+# Test repo
 
 Test repo for GitHub training
